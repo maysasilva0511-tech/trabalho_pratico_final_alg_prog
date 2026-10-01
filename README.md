@@ -19,11 +19,11 @@ Instruções necessárias para executar:
 - Tenha o Python 3.10 ou superior instalado.
 - Clone este repositório:
 ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone git@github.com:maysasilva0511-tech/trabalho_pratico_final_alg_prog.git
 ```
 - Acesse a pasta do projeto:
 ```bash
-   cd NOME-DO-REPOSITORIO
+   cdtrabalho_pratico_final_alg_prog
 ```
 - Execute o programa:
 ```bash
