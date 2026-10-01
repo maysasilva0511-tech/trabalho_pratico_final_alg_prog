@@ -16,18 +16,17 @@ As principais funcionalidades são:
 - Resumo final: exibe o cliente, o valor original, o percentual e o valor do desconto, o valor final e a forma de pagamento.
 
 Instruções necessárias para executar: 
-- Ter o Python 3.10 ou superior instalado na máquina
-- Baixe ou clone este repositório:
- ```bash
-   git clone https://github.com/
+- Tenha o Python 3.10 ou superior instalado.
+- Clone este repositório:
+```bash
+   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
 ```
 - Acesse a pasta do projeto:
-``` bash
+```bash
    cd NOME-DO-REPOSITORIO
 ```
 - Execute o programa:
-``` bash
+```bash
    python trabalhopratico.py
 ```
-
-Siga as instruções exibidas no terminal: informe o nome, escolha os produtos e as quantidades, finalize o pedido e escolha a forma de pagamento.
+- Siga as instruções exibidas no terminal: informe o nome, escolha os produtos e as quantidades, finalize o pedido e escolha a forma de pagamento
