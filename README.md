@@ -1,8 +1,10 @@
 # Trabalho Prático Final 
 Maisa Teixeira da Silva
+
 Algoritmos e Programação 
 
 Sistema de atendimento e pedidos de lanchonete 
+
 O programa, desenvolvido em Python, simula o atendimento de uma lanchonete. O cliente informa o nome, escolhe produtos do cardápio, define as quantidades e, ao final, escolhe a forma de pagamento. O sistema calcula o total da compra, aplica um desconto de acordo com o valor gasto e exibe um resumo completo do pedido.
 
 As principais funcionalidades são:
