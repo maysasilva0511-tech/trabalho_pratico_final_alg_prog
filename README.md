@@ -15,7 +15,7 @@ As principais funcionalidades são:
 - Forma de pagamento: Dinheiro, PIX ou Cartão, com validação da opção escolhida.
 - Resumo final: exibe o cliente, o valor original, o percentual e o valor do desconto, o valor final e a forma de pagamento.
 
-Instruções necessárias para executar: 
+Instruções necessarias para executar: 
 - Tenha o Python 3.10 ou superior instalado.
 - Clone este repositório:
 ```bash
