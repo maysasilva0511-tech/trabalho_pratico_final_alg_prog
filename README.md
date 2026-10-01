@@ -19,7 +19,7 @@ Instruções necessarias para executar:
 - Tenha o Python 3.10 ou superior instalado.
 - Clone este repositório:
 ```bash
-   git clone git@github.com:maysasilva0511-tech/trabalho_pratico_final_alg_prog.git
+   git clone https://github.com/maysasilva0511-tech/trabalho_pratico_final_alg_prog.git
 ```
 - Acesse a pasta do projeto:
 ```bash
