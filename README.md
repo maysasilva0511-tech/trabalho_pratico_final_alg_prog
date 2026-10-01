@@ -1,8 +1,8 @@
 # Trabalho Prático Final 
-# Maisa Teixeira da Silva
-# Algoritmos e Programação 
+Maisa Teixeira da Silva
+Algoritmos e Programação 
 
-# Sistema de atendimento e pedidos de lanchonete 
+Sistema de atendimento e pedidos de lanchonete 
 O programa, desenvolvido em Python, simula o atendimento de uma lanchonete. O cliente informa o nome, escolhe produtos do cardápio, define as quantidades e, ao final, escolhe a forma de pagamento. O sistema calcula o total da compra, aplica um desconto de acordo com o valor gasto e exibe um resumo completo do pedido.
 
 As principais funcionalidades são:
@@ -17,13 +17,13 @@ As principais funcionalidades são:
 
 Instruções necessarias para executar: 
 - Tenha o Python 3.10 ou superior instalado.
-- Clone este repositório:
+- Clone este repositorio:
 ```bash
    git clone https://github.com/maysasilva0511-tech/trabalho_pratico_final_alg_prog.git
 ```
 - Acesse a pasta do projeto:
 ```bash
-   cdtrabalho_pratico_final_alg_prog
+   cd trabalho_pratico_final_alg_prog
 ```
 - Execute o programa:
 ```bash
