@@ -31,4 +31,4 @@ Instruções necessarias para executar:
 ```bash
    python trabalhopratico.py
 ```
-- Siga as instruções exibidas no terminal: informe o nome, escolha os produtos e as quantidades, finalize o pedido e escolha a forma de pagamento
+- Siga as instruções exibidas no terminal: informe o nome, escolha os produtos e as quantidade, finalize o pedido e escolha a forma de pagamento
